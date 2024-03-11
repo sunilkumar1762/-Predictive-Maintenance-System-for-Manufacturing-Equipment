@@ -1,0 +1,6 @@
+﻿EquipmentID,MaintenanceDate,Failure Type,Action Taken,Downtime Hours
+Eqp101,7/5/2021,Overheating,Replaced coolant system,24
+Eqp102,7/15/2021,Pressure Drop,Adjusted valve,12
+Eqp103,8/1/2021,Vibration Excess,Balanced rotor,48
+Eqp101,8/10/2021,Sensor Fault,Replaced temperature sensor,8
+Eqp102,9/5/2021,Overheating,Installed additional fan,16
